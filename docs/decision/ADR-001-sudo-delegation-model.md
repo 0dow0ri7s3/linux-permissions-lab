@@ -1,0 +1,1 @@
+the two-phase approach, and specifically why Option C failed review (useradd -u 0 -o and -d /etc -m both reach root).
